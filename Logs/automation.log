@@ -1,0 +1,12 @@
+10:52:00.353 [main] INFO  TestCases.TC001_IdentifyCourses - -------Enter the last name-------
+10:52:00.740 [main] INFO  TestCases.TC001_IdentifyCourses - -------Enter the Email address-------
+10:52:01.089 [main] INFO  TestCases.TC001_IdentifyCourses - -------Enter the phone number-------
+10:52:01.571 [main] INFO  TestCases.TC001_IdentifyCourses - -------Select the institution type-------
+10:52:02.052 [main] INFO  TestCases.TC001_IdentifyCourses - -------Enter the institution Name-------
+10:52:02.531 [main] INFO  TestCases.TC001_IdentifyCourses - -------Select the job role-------
+10:52:03.518 [main] INFO  TestCases.TC001_IdentifyCourses - -------Select the department-------
+10:52:04.169 [main] INFO  TestCases.TC001_IdentifyCourses - -------Select the needs -------
+10:52:04.673 [main] INFO  TestCases.TC001_IdentifyCourses - -------Select the country-------
+10:52:04.969 [main] INFO  TestCases.TC001_IdentifyCourses - -------Click on the checkbox-------
+10:52:07.471 [main] INFO  TestCases.TC001_IdentifyCourses - -------Click on submit button-------
+10:52:08.870 [main] INFO  TestCases.TC001_IdentifyCourses - -------Capture the error message-------

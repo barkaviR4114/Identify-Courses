@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T10:49:05 IST" name="Suite" finished-at="2024-02-28T10:52:16 IST" duration-ms="191040">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T10:49:05 IST" name="Test" finished-at="2024-02-28T10:52:16 IST" duration-ms="191040">
+      <class name="TestCases.TC002_LanguageLearning">
+        <test-method signature="ClearInput()[pri:1, instance:TestCases.TC002_LanguageLearning@66d18979]" started-at="2024-02-28T10:51:06 IST" name="ClearInput" finished-at="2024-02-28T10:51:06 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearInput -->
+        <test-method signature="NewInputSearch()[pri:2, instance:TestCases.TC002_LanguageLearning@66d18979]" started-at="2024-02-28T10:51:07 IST" name="NewInputSearch" finished-at="2024-02-28T10:51:08 IST" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewInputSearch -->
+        <test-method signature="PrintLanguages()[pri:3, instance:TestCases.TC002_LanguageLearning@66d18979]" started-at="2024-02-28T10:51:09 IST" name="PrintLanguages" finished-at="2024-02-28T10:51:15 IST" duration-ms="6118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintLanguages -->
+        <test-method signature="CloseButton()[pri:4, instance:TestCases.TC002_LanguageLearning@66d18979]" started-at="2024-02-28T10:51:15 IST" name="CloseButton" finished-at="2024-02-28T10:51:18 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseButton -->
+        <test-method signature="PrintLevel()[pri:5, instance:TestCases.TC002_LanguageLearning@66d18979]" started-at="2024-02-28T10:51:18 IST" name="PrintLevel" finished-at="2024-02-28T10:51:19 IST" duration-ms="1447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintLevel -->
+      </class> <!-- TestCases.TC002_LanguageLearning -->
+      <class name="TestCases.TC001_IdentifyCourses">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:49:06 IST" name="setUp" finished-at="2024-02-28T10:50:19 IST" duration-ms="73117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InputSearch()[pri:1, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:50:20 IST" name="InputSearch" finished-at="2024-02-28T10:50:30 IST" duration-ms="10110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InputSearch -->
+        <test-method signature="Selection()[pri:2, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:50:30 IST" name="Selection" finished-at="2024-02-28T10:50:38 IST" duration-ms="7481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selection -->
+        <test-method signature="PrintCourses1()[pri:3, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:50:39 IST" name="PrintCourses1" finished-at="2024-02-28T10:50:55 IST" duration-ms="16160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintCourses1 -->
+        <test-method signature="PrintCourses2()[pri:4, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:50:55 IST" name="PrintCourses2" finished-at="2024-02-28T10:51:05 IST" duration-ms="9534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintCourses2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC001_IdentifyCourses@43c1b556]" started-at="2024-02-28T10:52:09 IST" name="close" finished-at="2024-02-28T10:52:16 IST" duration-ms="7576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC001_IdentifyCourses -->
+      <class name="TestCases.TC003_ForEnterprise">
+        <test-method signature="BackToHomePage()[pri:1, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:51:20 IST" name="BackToHomePage" finished-at="2024-02-28T10:51:32 IST" duration-ms="12447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackToHomePage -->
+        <test-method signature="ClickEnterprise()[pri:2, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:51:33 IST" name="ClickEnterprise" finished-at="2024-02-28T10:51:48 IST" duration-ms="15033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickEnterprise -->
+        <test-method signature="ClickSolutions()[pri:3, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:51:49 IST" name="ClickSolutions" finished-at="2024-02-28T10:51:49 IST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSolutions -->
+        <test-method signature="ClickCampus()[pri:4, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:51:50 IST" name="ClickCampus" finished-at="2024-02-28T10:51:57 IST" duration-ms="7622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCampus -->
+        <test-method signature="FillingForm()[pri:5, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:51:58 IST" name="FillingForm" finished-at="2024-02-28T10:52:06 IST" duration-ms="8206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillingForm -->
+        <test-method signature="SubmitButton()[pri:5, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:52:07 IST" name="SubmitButton" finished-at="2024-02-28T10:52:07 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitButton -->
+        <test-method signature="ErrorMessage()[pri:6, instance:TestCases.TC003_ForEnterprise@bccb269]" started-at="2024-02-28T10:52:08 IST" name="ErrorMessage" finished-at="2024-02-28T10:52:08 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrorMessage -->
+      </class> <!-- TestCases.TC003_ForEnterprise -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
